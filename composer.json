@@ -16,9 +16,6 @@
             "role" : "Developer"
         }
     ],
-    "require": {
-        "andatech/yii2-core": "dev-master"
-    },
     "autoload": {
         "psr-4": {
             "culturePnPsu\\core\\": ""
