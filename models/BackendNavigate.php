@@ -10,7 +10,7 @@ use yii\helpers\Html;
  *
  * @author madone
  */
-class BackendNavigate extends \firdows\menu\models\Navigate {
+class BackendNavigate extends \culturePnPsu\menu\models\Navigate {
     
     public function getCount($router) {
         $count = '';
